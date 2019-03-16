@@ -3,7 +3,7 @@ title: Kun Blog
 SEOTitle: 兆坤的博客 | Kun Blog
 header-img: img/home-bg.jpg
 email: Acezhang981006@gmail.com
-description: "Sometimes Ever, Sometimes Never."
+description: "Shall I compare thee to a summers day？"
 keyword: "ZZK, Kun Blog, 兆坤的博客, Zhang zhaokun, WISE, Xiamen University"
 url: "http://Kkun98.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,8 +11,8 @@ github_repo: "https://github.com/Kkun98" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Shall I compare thee to a summers day."
-#sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Sometimes Ever, Sometimes Never"
+sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
