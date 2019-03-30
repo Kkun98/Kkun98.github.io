@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      Capital Asset Pricing Model (CAPM) and its Realization in Stata
+subtitle:   Assignment 2
+date:       2019-03-30
+author:     Zhaokun Zhang
+header-img: img/post-bg-h2.jpg
+catalog: true
+tags:
+    - Data Analysis
+---
+## Microeconometrics
+For assignment PDF [Click here]({{site.baseurl}}/assignments/HW2.pdf)
+>CAPM is the centerpiece of financial economics, which relates asset risk to expected return. It helps to identify those mis-priced securities, as well as helps firms and individuals to make investment decisions.
