@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      Estimation of Discrete Game and its Realization in R
+subtitle:   Assignment 3
+date:       2019-04-14
+author:     Zhaokun Zhang, Zhesheng Zheng
+header-img: img/post-bg-h3.JPG
+catalog: true
+tags:
+    - Data Analysis
+---
+## Microeconometrics
+For assignment PDF [Click here]({{site.baseurl}}/assignments/HW3.pdf)
+>Discrete game is a generalization of a standard discrete model where utility depends not only on itself but also on action of other players. The decisions involve strategic interactions: none of subjects act in a vacuum.
